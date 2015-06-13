@@ -1,0 +1,17 @@
+D:\shahar\Stam\ShallowBlue\ShallowBlue\bin\Debug\ShallowThought.exe.config
+D:\shahar\Stam\ShallowBlue\ShallowBlue\obj\Debug\ShallowThought.exe
+D:\shahar\Stam\ShallowBlue\ShallowBlue\obj\Debug\ShallowThought.pdb
+D:\shahar\Stam\ShallowBlue\ShallowBlue\bin\Debug\ShallowThought.exe
+D:\shahar\Stam\ShallowBlue\ShallowBlue\bin\Debug\ShallowThought.pdb
+D:\shahar\Stam\ShallowBlue\ShallowBlue\obj\Debug\ResolveAssemblyReference.cache
+D:\shahar\Stam\ShallowBlue\ShallowBlue\obj\Debug\ShallowThought.GameEngine.resources
+D:\shahar\Stam\ShallowBlue\ShallowBlue\obj\Debug\ShallowThought.Properties.Resources.resources
+D:\shahar\Stam\ShallowBlue\ShallowBlue\obj\Debug\ShallowThought.csproj.GenerateResource.Cache
+C:\shahar\Proj\ShallowThought\ShallowThought\bin\Debug\ShallowThought.exe.config
+C:\shahar\Proj\ShallowThought\ShallowThought\obj\Debug\ShallowThought.exe
+C:\shahar\Proj\ShallowThought\ShallowThought\obj\Debug\ShallowThought.pdb
+C:\shahar\Proj\ShallowThought\ShallowThought\bin\Debug\ShallowThought.exe
+C:\shahar\Proj\ShallowThought\ShallowThought\bin\Debug\ShallowThought.pdb
+C:\shahar\Proj\ShallowThought\ShallowThought\obj\Debug\ShallowThought.GameEngine.resources
+C:\shahar\Proj\ShallowThought\ShallowThought\obj\Debug\ShallowThought.Properties.Resources.resources
+C:\shahar\Proj\ShallowThought\ShallowThought\obj\Debug\ShallowThought.csproj.GenerateResource.Cache

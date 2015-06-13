@@ -1,0 +1,9 @@
+bin\Debug\ShallowBlue.exe
+bin\Debug\ShallowBlue.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ShallowBlue.Properties.Resources.resources
+obj\Debug\ShallowBlue.csproj.GenerateResource.Cache
+obj\Debug\ShallowBlue.exe
+obj\Debug\ShallowBlue.pdb
+bin\Debug\ShallowBlue.exe.config
+obj\Debug\ShallowThought.GameEngine.resources
